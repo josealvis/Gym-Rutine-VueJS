@@ -1,0 +1,23 @@
+{
+  "name": "gym-rutine-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josealvis/Gym-Rutine-VueJS.git"
+  },
+  "author": "Jalvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josealvis/Gym-Rutine-VueJS/issues"
+  },
+  "homepage": "https://github.com/josealvis/Gym-Rutine-VueJS#readme"
+}
